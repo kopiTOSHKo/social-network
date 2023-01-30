@@ -1,0 +1,17 @@
+
+.nav {
+    grid-area: nav;
+    background-color: rgb(255, 102, 47);
+    }
+
+.item {
+    list-style-type: none;
+    color: white;
+
+}
+
+.item a{
+    color: white;
+    text-decoration: none;
+}
+
